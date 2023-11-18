@@ -1,0 +1,8 @@
+---
+name: PersonaSkin
+main: blusterys\personaskin\Main
+version: 1.2.0
+api: [ 5.0.0 ]
+author: BlusteryS
+description: Support for persona skin
+...
