@@ -13,7 +13,7 @@ It was added in [Bedrock_Edition_1.13.0](https://minecraft.gamepedia.com/Bedrock
 -----
 
 ## Target software:
-This plugin officially only works with [`Pocketmine-MP`](https://github.com/pmmp/PocketMine-MP/).
+This plugin officially only works with [`PocketMine-MP`](https://github.com/pmmp/PocketMine-MP/).
 
 -----
 
@@ -24,4 +24,4 @@ This plugin officially only works with [`Pocketmine-MP`](https://github.com/pmmp
 3) Restart the server
 
 
-[project-preview]: https://raw.githubusercontent.com/BlusteryS/PersonaSkin/main/assets/preview.gif
+[project-preview]: https://raw.githubusercontent.com/BlusteryS/PersonaAdapter/main/assets/preview.gif
