@@ -4,5 +4,6 @@ branches:
 - main
 projects:
   PersonaAdapter:
+    icon: "assets/icon.png"
     path: ""
 ...
